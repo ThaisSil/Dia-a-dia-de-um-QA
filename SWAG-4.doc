@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWAG-4] Como usuário desejo ver e escolher as opções de cores e tamanhos antes de enviar para o carrinho.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://thaisdioproje.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWAG-4]&nbsp;<a href="https://thaisdioproje.atlassian.net/browse/SWAG-4">Como usuário desejo ver e escolher as opções de cores e tamanhos antes de enviar para o carrinho.</a>
+            <span class="subText">
+               Criado: 28/jan/23                   &nbsp;Atualizado(a): 28/jan/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://thaisdioproje.atlassian.net/secure/BrowseProject.jspa?id=10000">swaglabsShopping</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="639e491cfbf54baf29049dc8"
+                id="word_reporter_639e491cfbf54baf29049dc8"
+                href="https://thaisdioproje.atlassian.net/secure/ViewProfile.jspa?accountId=639e491cfbf54baf29049dc8">
+                    Thais Fernandes
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10003-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10003-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000n:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10003-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li><b>Valor:</b> A visualização das categorias dos produtos como tamanhos e cores são importante para que o cliente saiba quais tipos de produtos podem ser encontrados, verificar a variedade disponível do produto desejado e fazer sua escolha antes da finalização da compra.</li>
+	<li><b>Narrativa de usuário:</b><br/>
+ <b>Como</b> cliente<br/>
+ <b>Eu quero</b> acessar as categorias de produtos<br/>
+ <b>Para</b> escolher tamanha e/ou cores dos produtos desejados antes da finalização da compra.</li>
+	<li><b>Requisitos:</b><br/>
+ <b>Atores:</b> Clientes<br/>
+ <b>Interfaces:</b> Ver documento em anexo da UI/UX</li>
+	<li><b>Dados:</b><br/>
+          o Criação de banco de dados/ tabela para armazenar e categorizar os produtos disponíveis com cor e tamanho.<br/>
+          o Criação de API para integração do front-end e banco criado.<br/>
+          o Criação tela com ícone de cores dos produtos, tamanho e quantidade, para serem escolhidos antes da finalização da compra.</li>
+	<li><b>Plataforma/ambiente:</b><br/>
+           o Web/ Web Mobile<br/>
+           o Devem ser configurados ambiente e pipelines para desenvolvimento, homologação de usuário, homologação de QA e produção.</li>
+</ol>
+
+
+<ol>
+	<li><b>Critérios de aceite:</b><br/>
+      o Usuário deverá visualizar o ícone para acessar as categorias, como cores, tamanho dos produtos disponíveis.<br/>
+     o Usuário deverá visualizar uma caixa para selecionar a quantidade necessária do produto.</li>
+</ol>
+
+
+<p>            o Usuário deverá visualizar a imagem do produto com as cores escolhidas, ao selecionar o ícone de cor.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sat Jan 28 03:18:14 UTC 2023 por Thais Fernandes usando JIRA 1001.0.0-SNAPSHOT#100214-sha1:c40e72a2441974aaf4a204cdeaf69cef25d44171.
+
+</body>
+</html>
